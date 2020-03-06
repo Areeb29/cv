@@ -1,0 +1,64 @@
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: gray;
+  border-width: 6px;
+  width: 5%;
+}
+h1 {
+  color: burlywood;
+}
+img {
+  border-radius: 50%;
+}
+img:hover {
+  width: 100px;
+}
+
+body {
+  background-color: powderblue;
+}
+#vocx {
+  color: purple;
+}
+.tree {
+  color: red;
+}
+
+h3 {
+  color: royalblue;
+  font-size: large;
+}
+
+p {
+  color: slateblue;
+  font-size: medium;
+}
+
+th {
+  color: tomato;
+}
+td {
+  color: violet;
+}
+
+.yup {
+  color: palevioletred;
+}
+
+h2 {
+  color: peru;
+}
+
+h4 {
+  color: purple;
+}
+label {
+  color: salmon;
+}
+input {
+  background-color: silver;
+}
+#low {
+  background-color: skyblue;
+}
